@@ -8,7 +8,7 @@ function App() {
   return (
     <div className='container-fluid' >
     <NavBar />
-    <ItemListContainer greeting={"<------------------ Pagina en contrucción!! ------------------>   Te invitamos a contactano por nuestras redes ..." }/>
+    <ItemListContainer greeting={"<------------------ Pagina en contrucción!! ------------------>   Te invitamos a contactanos por nuestras redes ..." }/>
     <Footer />
     </div>
   );
